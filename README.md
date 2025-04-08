@@ -36,9 +36,12 @@ Documents
 
 Report
 
-### Need Code, Documents & Explanation video ?
-### How to Reach me :
-### Mail : vatshayan007@gmail.com
-### WhatsApp: +91 9310631437 (Helping 24*7) CHAT
-### Website : https://www.finalproject.in/
-### Youtube Channel: https://www.youtube.com/@computerscienceproject
+### Need Code, Documents & Explanation video ? 
+
+### 📞 Contact for Project Files / Help (Available 🟢 LIVE 24×7 – LIVE Support):
+
+### 🌐 Website: https://www.finalproject.in/
+
+### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
+
+### 💻 Computer Science Projects: https://www.computer-science-project.in/
