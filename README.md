@@ -21,27 +21,32 @@ Top 30 Artificial Intelligence Project Ideas in 2025 Includes Source Code, PPT, 
 19.	Rainfall Prediction System using Machine Learning	                    https://youtu.be/RrMOFPkBg5k?si=uKKFtXJtiCQJwTJd
 20.	Malware detection project	                                            https://youtu.be/o7W1fRSxci0?si=K-W20JDWK83IUnhe
 
-### Project include:
-Synopsis
+### Project include: 
 
-PPT
+1. Synopsis
 
-Research Paper
+2. PPT
 
-Code
+3. Research Paper
 
-Explanation video
+4. Code
 
-Documents
+5. Explanation video
 
-Report
+6. Documents
+
+7. Report
 
 ### Need Code, Documents & Explanation video ? 
 
-### 📞 Contact for Project Files / Help (Available 🟢 LIVE 24×7 – LIVE Support):
+## How to Reach me :
 
-### 🌐 Website: https://www.finalproject.in/
+### Mail : vatshayan007@gmail.com 
 
-### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
+### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### 💻 Computer Science Projects: https://www.computer-science-project.in/
+### Website : https://www.finalproject.in/
+
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
+
+Mail/Message me for Projects Help 🙏🏻
